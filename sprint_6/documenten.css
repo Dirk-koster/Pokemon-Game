@@ -1,0 +1,46 @@
+.nav-item .nav-link {
+    color: #1295D8;
+    
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#body{
+    background-color: rgb(0, 0, 0);
+}
+form{
+    font-size: large;
+    
+    color: rgb(37,76,122);
+
+}
+.pp1{
+    padding-right: 150px;
+    margin-bottom: 20px;
+}
+.pp2{
+    padding-right: 150px;
+    margin-left: 29px;
+}
+.wm{
+    color: rgb(37,76,122);
+    font-size: large;
+}
+.h3{
+    color: rgb(37,76,122);
+    font-weight: bold;
+}
+.div{
+    margin-top: 50px;
+}
+
+.button{
+    margin-left: 142px;
+    margin-top: 20px;
+    background-color: rgb(37,76,122);
+    font-size: larger;
+    color: white;
+}
+body{
+    background-color: #D8E0EB !important;
+}

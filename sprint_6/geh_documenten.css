@@ -1,0 +1,24 @@
+.nav-item .nav-link {
+    color: #1295D8;
+    
+    font-size: xx-large;
+    font-weight: bold;
+}
+.h3{
+    color: rgb(37,76,122);
+}
+body{
+    background-color: #D8E0EB !important;
+}
+.pita{
+    margin-left: 600px;
+    
+    margin-top: 20px;
+    font-size: large;
+    color: white;
+    background-color: rgb(44,79,121);
+}
+img{
+    align-self: center;
+ 
+}

@@ -1,0 +1,23 @@
+.nav-item .nav-link {
+    color: #1295D8;
+    
+    font-size: xx-large;
+    font-weight: bold;
+}
+body{
+    background-color: #D8E0EB !important;
+}
+.col{
+    color: #3B5375;
+    font-size: large;
+    margin-bottom: 100px;
+}
+
+.pp{
+font-size: larger;
+}
+.hh{
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(54,83,123);
+}

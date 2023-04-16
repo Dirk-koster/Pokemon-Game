@@ -1,0 +1,16 @@
+.nav-item .nav-link {
+    color: #1295D8;
+    
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+body {
+    background-color: #D8E0EB !important;
+}
+
+header {
+    font-size: 20px;
+    color: #fff;
+    background: #2C4F79;
+}

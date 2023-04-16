@@ -1,0 +1,22 @@
+.nav-item .nav-link {
+    color: #1295D8;
+    background-color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.kleur1 {
+    color: #1295D8;
+}
+
+.kleur2 {
+    color: rgb(0, 0, 44);
+}
+
+.box {
+    background-color: #23395d;
+
+}
+body{
+    background-color: #D8E0EB !important;
+}
